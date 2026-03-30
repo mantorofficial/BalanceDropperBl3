@@ -1,0 +1,11 @@
+[project]
+name = "BalanceDropperBL3"
+version = "1.0"
+description = "Drop loot from any ItemPool directly at your feet via a searchable blimgui UI. Requires BLimGUI https://bl-sdk.github.io/willow2-mod-db/mods/blimgui/#blimgui"
+authors = [{ name = "Ty-Gone" }]
+
+[tool.sdkmod]
+name = "BalanceDropperBL3"
+supported_games = ["BL3"]
+https://github.com/mantorofficial/BalanceDropperBl3/raw/refs/heads/main/BalanceDropperBL3.sdkmod
+version = "1.0"
