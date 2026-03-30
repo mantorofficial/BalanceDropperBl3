@@ -7,5 +7,5 @@ authors = [{ name = "Ty-Gone" }]
 [tool.sdkmod]
 name = "BalanceDropperBL3"
 supported_games = ["BL3"]
-https://github.com/mantorofficial/BalanceDropperBl3/raw/refs/heads/main/BalanceDropperBL3.sdkmod
+download = "https://github.com/mantorofficial/BalanceDropperBl3/raw/refs/heads/main/BalanceDropperBL3.sdkmod"
 version = "1.0"
