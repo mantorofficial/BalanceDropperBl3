@@ -11,5 +11,5 @@ dependencies = [
 [tool.sdkmod]
 name = "BalanceDropperBL3"
 supported_games = ["BL3", "WL"]
-download = "https://github.com/mantorofficial/BalanceDropperBl3/raw/refs/heads/main/BalanceDropperBL3.sdkmod"
+download = "https://raw.githubusercontent.com/mantorofficial/BalanceDropperBl3/main/BalanceDropperBL3.sdkmod"
 version = "1.0"
